@@ -1,0 +1,25 @@
+body{background:url("http://res.cloudinary.com/exodious/image/upload/v1464000549/pozadina_s3rymk.jpg") no-repeat top center fixed;background-size:cover;margin:0;padding:0;height:100%;width:100%;}
+h1{color:#ff0;font-family:'Ubuntu', sans-serif;text-align:center;width:30%;margin:auto;border-radius:50px;border:3px solid #fff;margin-top:20px;margin-bottom:20px;}
+h2{text-align:center;border-radius:50px;border:3px solid #fff;width:50%;margin:auto;box-shadow:0px 0px 80px 20px;}
+.providnost{opacity:0.5;}
+#prvi{background-color:#000;padding:10px;}
+#drugi{padding-bottom:50px;padding-top:50px;background-image:url('http://res.cloudinary.com/exodious/image/upload/v1464001634/stadion_wide_kmmuee.jpg');background-position:center;background-repeat:no-repeat;}
+#treci{margin-top:20px;opacity:0.5;position:relative;}
+#cetvrti{margin-top:20px;background-color:#fff;}
+#avatar{background-image:url('http://res.cloudinary.com/exodious/image/upload/v1464000542/del_ic285q.jpg');width:400px;height:400px;align-items:center;align-content:center;background-size:cover;background-position:center;border-radius:50%;border:2px solid #fff;box-shadow:0px 20px 120px #000;margin-left:auto;margin-right:auto;display:block;position:relative;}
+blockquote{font-family:Georgia, serif;font-weight:bold;color:white;text-align:center;}
+blockquote::before{content:"\201C";font-family:Georgia, serif;font-size:60px;font-weight:bold;color:#ff0;}
+blockquote::after{content:"\201d";font-family:Georgia, serif;font-size:60px;font-weight:bold;color:#ff0;}
+#alex,
+#mourinho,
+#maradona{font-weight:bold;color:#ff0;}
+#prostor{margin-top:30px;}
+.tab{width:80%;background-color:#000;margin:auto;border-radius:40px;}
+.tab2{background-color:#ff0;margin:auto;border-radius:40px;}
+i.fa-heart{top:20px;left:55px;font-weight:900;}
+#dno{background-color:#ff0;text-align:center;margin:auto;font-weight:bold;}
+#opis{margin:auto;text-align:center;font-weight:bold;margin-left:20%;margin-right:20%;padding-top:3%;padding-bottom:3%;font-size:120%;}
+#potpis{padding-top:20px;}
+#fb,
+#tw{margin-bottom:20px;}
+footer{border-radius:40px;width:80%;}
